@@ -1,2 +1,2 @@
-# wikipedia_design_patterns
+# python-javascript-design-patterns
 设计模式代码
