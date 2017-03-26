@@ -228,6 +228,10 @@ clock: 2017-03-26 18:08:42
 
 一秒后数据更新，两个面板会自动更新数据。
 
+> Python 设计模式相关代码可以 https://github.com/zhengxiaowai/design-patterns 获得。
+>
+> 该模式的代码可以从 https://raw.githubusercontent.com/zhengxiaowai/design-patterns/master/behavioral/observer.py 获得
+
 当需要一个湿度面板时候也是只需要生成这个面板、并且实现你所需要的 update、display 方法然后再注册到可观察对象中即可，无须修改其他部分，实现了结构的解耦。
 
 观察者模式在很多软件和框架中经常出现，比如 MVC 框架，事件的循环等应用场景。若希望在一个对象的状态变化时能够通知/提醒所有相关者（一个对象或一组对象），则可以使用观察者模式。观察者模式的一个重要特性是，在运行时，订阅者/观察者的数量以及观察者是谁可能会变化，也可以改变。
