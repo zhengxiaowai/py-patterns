@@ -1,4 +1,4 @@
-# python-javascript-design-patterns
+# design-patterns
 设计模式
 
 ## 参考书
