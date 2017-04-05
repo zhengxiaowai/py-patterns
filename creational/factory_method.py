@@ -5,6 +5,7 @@ from __future__ import unicode_literals, print_function
 
 
 class Pizza(object):
+    """ Pizza 抽象类 """
     def __init__(self):
         self.name = None
 
@@ -22,17 +23,20 @@ class Pizza(object):
 
 
 class NYStyleCheesePizza(Pizza):
+    """ Pizza 子类 """
     def __init__(self):
         super(NYStyleCheesePizza, self).__init__()
         self.name = '纽约风味 cheese 披萨'
 
 
 class ChicagoCheesePizza(Pizza):
+    """ Pizza 子类 """
     def __init__(self):
         super(ChicagoCheesePizza, self).__init__()
         self.name = '芝加哥风味 cheese 披萨'
 
     def cut(self):
+        """ 覆盖父类方法 """
         print('方块切片...')
 
 
