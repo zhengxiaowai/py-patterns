@@ -48,7 +48,7 @@ from __future__ import unicode_literals, print_function
 class Pizza(object):
     """ Pizza 抽象类 """
     def __init__(self):
-        self.name = None
+        self.name = self.getPizzaName()
 
     def prepare(self):
         print('准备...')
@@ -65,16 +65,14 @@ class Pizza(object):
 
 class NYStyleCheesePizza(Pizza):
     """ Pizza 子类 """
-    def __init__(self):
-        super(NYStyleCheesePizza, self).__init__()
-        self.name = '纽约风味 cheese 披萨'
+    def getPizzaName(self):
+        return '纽约风味 cheese 披萨'
 
 
 class ChicagoCheesePizza(Pizza):
     """ Pizza 子类 """
-    def __init__(self):
-        super(ChicagoCheesePizza, self).__init__()
-        self.name = '芝加哥风味 cheese 披萨'
+    def getPizzaName(self):
+        return '芝加哥风味 cheese 披萨'
 
     def cut(self):
         """ 覆盖父类方法 """
@@ -82,10 +80,6 @@ class ChicagoCheesePizza(Pizza):
 
 
 class PizzaStore(object):
-    def create_pizza(self, item):
-        """ 让子类决定实例化哪个 pizza """
-        raise NotImplementedError
-
     def order_pizza(self, pizza_type):
         pizza = self.create_pizza(pizza_type)
 
@@ -105,9 +99,6 @@ class NYPizzaStore(PizzaStore):
             # 同上
             pass
 
-    def order_pizza(self, pizza_type):
-        return super(NYPizzaStore, self).order_pizza(pizza_type)
-
 
 class ChicagoPizzaStore(PizzaStore):
     def create_pizza(self, item):
@@ -116,9 +107,6 @@ class ChicagoPizzaStore(PizzaStore):
         elif item == 'veggie':
             # 同上
             pass
-
-    def order_pizza(self, pizza_type):
-        return super(ChicagoPizzaStore, self).order_pizza(pizza_type)
 
 
 if __name__ == '__main__':
