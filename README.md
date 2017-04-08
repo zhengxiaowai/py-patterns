@@ -1,7 +1,7 @@
 # design-patterns
 
-- [创建型模式](./behavioral/README.md)
-- [行为型模式](./creational/README.md)
+- [创建型模式](./creational/README.md)
+- [行为型模式](./behavioral/README.md)
 - [结构型模式](./structural//README.md)
 
 ## Reference Books
