@@ -10,10 +10,10 @@ class Transaction(object):
     def add_command(self, command):
         self.commands.append(command)
 
-    def excute(self):
-        """ 调用者不需要知道执行什么，只知道有 excute 方法"""
+    def execute(self):
+        """ 调用者不需要知道执行什么，只知道有 execute 方法"""
         for command in self.commands:
-            command.excute()
+            command.execute()
             self.success.append(command)
 
     def undo(self):
@@ -25,7 +25,7 @@ class CreateCommand(object):
     def __init__(self, filename):
         self.filename = filename
 
-    def excute(self):
+    def execute(self):
         print('create a {}'.format(self.filename))
 
     def undo(self):
@@ -37,7 +37,7 @@ class WriteCommand(object):
         self.filename = filename
         self.content = content
 
-    def excute(self):
+    def execute(self):
         print('write [{}] to {}'.format(self.content, self.filename))
 
     def undo(self):
@@ -49,7 +49,7 @@ class ChomdCommand(object):
         self.filename = filename
         self.mode = mode
 
-    def excute(self):
+    def execute(self):
         print('change {} mode to {}'.format(self.filename, self.mode))
 
     def undo(self):
@@ -63,7 +63,7 @@ class MoveCommand(object):
         self.filename = filename
         self.to_path = to_path
 
-    def excute(self):
+    def execute(self):
         print('move {} to {}'.format(self.filename, self.to_path))
         raise Exception('you have not permission')
 
@@ -81,13 +81,13 @@ if __name__ == '__main__':
     file_operation.add_command(write_command)
     file_operation.add_command(chmod_command)
 
-    # file_operation.excute()
+    # file_operation.execute()
 
     try:
         # 发生错误恢复原始状态
         move_command = MoveCommand('test.file', '/etc/')
         file_operation.add_command(move_command)
-        file_operation.excute()
+        file_operation.execute()
     except:
         print('\nraise a error, start to undo:\n')
         file_operation.undo()
