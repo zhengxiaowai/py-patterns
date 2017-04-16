@@ -4,6 +4,8 @@
 - [行为型模式](./behavioral/README.md)
 - [结构型模式](./structural//README.md)
 
+![desgin-patterns](./desgin-patterns-cheet.png)
+
 ## Reference Books
 - [Head First 设计模式](https://book.douban.com/subject/2243615/) 
 - [精通 Python 设计模式](https://book.douban.com/subject/26829015/)
