@@ -32,7 +32,7 @@
 				<key>location</key>
 				<string>{-0.796875, -0.84765625}</string>
 				<key>nodeID</key>
-				<string>7B4573BA-7A54-4269-A038-1EBCFDA9D929</string>
+				<string>E191A6C8-5073-4355-A813-7FAC9654B153</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -53,9 +53,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{173.203125, -267.34765625}</string>
+						<string>{173.203125, -312.84765625}</string>
 						<key>nodeID</key>
-						<string>73B8DD52-D03D-434C-A007-5D68FC9AA4B7</string>
+						<string>1DB85663-1443-493E-9AF6-96F4DC1E1E8A</string>
 						<key>strokeColor</key>
 						<string>{0.136, 0.807, 0.880, 1.000}</string>
 						<key>strokeStyle</key>
@@ -76,9 +76,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{322.203125, -349.34765625}</string>
+								<string>{322.203125, -394.84765625}</string>
 								<key>nodeID</key>
-								<string>304B8294-BB2D-4125-B101-20725B27E92D</string>
+								<string>A1762270-D4C4-4705-97D3-127E48623E1B</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -117,9 +117,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{322.203125, -308.34765625}</string>
+								<string>{322.203125, -353.84765625}</string>
 								<key>nodeID</key>
-								<string>105DE183-C2B0-4641-834A-22A2BA9E8FFB</string>
+								<string>6F2CABD1-190A-469C-A3B3-F7D6CFA54506</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -158,9 +158,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{322.203125, -267.34765625}</string>
+								<string>{322.203125, -312.84765625}</string>
 								<key>nodeID</key>
-								<string>BD11FA3B-1161-4D7E-8AB7-3A78E87F54FE</string>
+								<string>16811BFA-E8F6-44C8-A61B-1CF403AFCE9E</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -199,9 +199,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{322.203125, -226.34765625}</string>
+								<string>{322.203125, -271.84765625}</string>
 								<key>nodeID</key>
-								<string>CB01F4FD-75B5-44EC-A94B-C4FA48688799</string>
+								<string>8804F5D0-19B6-468E-81BD-32B99DAEB617</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -240,9 +240,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{322.203125, -185.34765625}</string>
+								<string>{322.203125, -230.84765625}</string>
 								<key>nodeID</key>
-								<string>ABE0D596-47B0-4B52-8AF3-C5011EC4A028</string>
+								<string>C8D1CD90-C1A3-4979-8C74-3C71DF4C1B25</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -302,7 +302,7 @@
 						<key>location</key>
 						<string>{-163.796875, -126.34765625}</string>
 						<key>nodeID</key>
-						<string>17A44D5C-6341-4E4C-9555-CB3DD153BB28</string>
+						<string>2F67F4DC-BF03-46EA-98CC-5CC5EEE0D92C</string>
 						<key>strokeColor</key>
 						<string>{0.689, 0.215, 0.952, 1.000}</string>
 						<key>strokeStyle</key>
@@ -325,7 +325,7 @@
 								<key>location</key>
 								<string>{-308.796875, -204.84765625}</string>
 								<key>nodeID</key>
-								<string>BAE1DF3E-E2BD-40A7-B5B2-F65E932A3065</string>
+								<string>809F2193-A0A7-4539-996F-E5A41D7B9C05</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -348,7 +348,7 @@
 										<key>location</key>
 										<string>{-669.796875, -229.84765625}</string>
 										<key>nodeID</key>
-										<string>F3E94A70-E3ED-4A59-A868-B8F047E2297D</string>
+										<string>4E591786-44C9-46A3-B8D3-47F46AEDA697</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -408,7 +408,7 @@
 								<key>location</key>
 								<string>{-308.796875, -113.84765625}</string>
 								<key>nodeID</key>
-								<string>D3D032F8-C255-4C8A-8D51-6E996A7B40B8</string>
+								<string>D16B585F-9DEF-433B-917C-9EC304617B08</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -431,7 +431,7 @@
 										<key>location</key>
 										<string>{-669.796875, -138.84765625}</string>
 										<key>nodeID</key>
-										<string>69A5E037-0466-4D6A-8533-C42BBF1391F2</string>
+										<string>93DF2D63-3BFC-4D35-9705-FED1B74E388E</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -491,7 +491,7 @@
 								<key>location</key>
 								<string>{-308.796875, -35.34765625}</string>
 								<key>nodeID</key>
-								<string>0FBE5272-2FB7-49CA-8051-DF7295A8A17E</string>
+								<string>99AE0B7F-858B-4DD9-ABAE-B7882B2CFBC1</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -514,7 +514,7 @@
 										<key>location</key>
 										<string>{-669.796875, -47.84765625}</string>
 										<key>nodeID</key>
-										<string>8BBE8B1D-0022-41D7-BD4E-1A01F8AE5B34</string>
+										<string>0CC3AD67-9BFB-4CFB-8615-17939EB77222</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -593,7 +593,7 @@
 						<key>location</key>
 						<string>{173.203125, 112.65234375}</string>
 						<key>nodeID</key>
-						<string>DA141770-6A19-4815-9DDD-5E3738D9D372</string>
+						<string>13B05950-6990-47E7-A30A-6EFA08F3265C</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -614,9 +614,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{336.203125, -106.84765625}</string>
+								<string>{336.203125, -152.34765625}</string>
 								<key>nodeID</key>
-								<string>0E12C92C-A5DB-44ED-827A-7E33E7E40D04</string>
+								<string>B7B6B52C-C0AC-483A-B309-9409E8F0A67D</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -637,9 +637,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{499.203125, -144.34765625}</string>
+										<string>{499.203125, -189.84765625}</string>
 										<key>nodeID</key>
-										<string>5FD61C69-A996-4530-9707-8AEAE90CDA60</string>
+										<string>85FC1560-CCB2-4C75-9558-9F56E899DED2</string>
 										<key>strokeColor</key>
 										<string>{0.144, 0.670, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -697,9 +697,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{336.203125, -3.34765625}</string>
+								<string>{336.203125, -48.84765625}</string>
 								<key>nodeID</key>
-								<string>F9D7768F-C858-4713-BB52-805110106F80</string>
+								<string>96A3C875-86EC-4E08-9F7A-92FC69ED811D</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -720,9 +720,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{481.203125, -28.34765625}</string>
+										<string>{481.203125, -73.84765625}</string>
 										<key>nodeID</key>
-										<string>C01B3330-A75B-4177-B44A-D52344D26D7D</string>
+										<string>9E4C6826-019E-42AC-819E-F28010423DDE</string>
 										<key>strokeColor</key>
 										<string>{0.144, 0.670, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -780,9 +780,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{336.203125, 100.15234375}</string>
+								<string>{336.203125, 54.65234375}</string>
 								<key>nodeID</key>
-								<string>87A8C6F2-C554-4E8B-9B8F-83CC4AE60A37</string>
+								<string>62D10620-0711-4D8C-B62C-DCBBF543871F</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -803,9 +803,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{481.203125, 62.65234375}</string>
+										<string>{481.203125, 17.15234375}</string>
 										<key>nodeID</key>
-										<string>854E549F-0CF3-4638-982A-086787F72474</string>
+										<string>863A39E3-1B8D-4F22-B4D7-F8A630305502</string>
 										<key>strokeColor</key>
 										<string>{0.144, 0.670, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -863,9 +863,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{336.203125, 228.65234375}</string>
+								<string>{336.203125, 183.15234375}</string>
 								<key>nodeID</key>
-								<string>DB5BDE9C-8EBA-4B23-A2A6-3C34F27C0B14</string>
+								<string>E325E046-5045-41DE-A302-84A8FF175DA7</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -886,9 +886,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{517.203125, 178.65234375}</string>
+										<string>{517.203125, 133.15234375}</string>
 										<key>nodeID</key>
-										<string>F2FB6077-2B80-428D-BD23-FB4732D8ECB7</string>
+										<string>5EE8A6A5-7531-4814-BA7A-82C169590DE8</string>
 										<key>strokeColor</key>
 										<string>{0.144, 0.670, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -946,9 +946,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{336.203125, 344.65234375}</string>
+								<string>{336.203125, 299.15234375}</string>
 								<key>nodeID</key>
-								<string>64CBF675-6EBF-4D9C-AC71-BC31E4880E4B</string>
+								<string>89DA6665-6556-4ED2-8882-6B0C33E181B8</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -969,9 +969,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{499.203125, 319.65234375}</string>
+										<string>{499.203125, 274.15234375}</string>
 										<key>nodeID</key>
-										<string>6D79A90D-D2D3-4038-BAE0-7B65DBB5F685</string>
+										<string>DB1534E7-097A-447C-8A1C-2038E99981D8</string>
 										<key>strokeColor</key>
 										<string>{0.144, 0.670, 1.000, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1017,6 +1017,89 @@
 \f0\fs36 \cf2 \'b5\'fc\'b4\'fa\'c6\'f7\'c4\'a3\'ca\'bd}</string>
 								</dict>
 							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{336.203125, 390.15234375}</string>
+								<key>nodeID</key>
+								<string>6B3B4ACD-483C-470F-9375-721271DA4B32</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{481.203125, 365.15234375}</string>
+										<key>nodeID</key>
+										<string>2222F58C-13D2-4FEA-9005-201265B8A5F4</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;允许一个对象在其内部状态改变时改变它的行为，对象看起来似乎修改了它的类。&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d4\'ca\'d0\'ed\'d2\'bb\'b8\'f6\'b6\'d4\'cf\'f3\'d4\'da\'c6\'e4\'c4\'da\'b2\'bf\'d7\'b4\'cc\'ac\'b8\'c4\'b1\'e4\'ca\'b1\'b8\'c4\'b1\'e4\'cb\'fc\'b5\'c4\'d0\'d0\'ce\'aa\'a3\'ac\'b6\'d4\'cf\'f3\'bf\'b4\'c6\'f0\'c0\'b4\'cb\'c6\'ba\'f5\'d0\'de\'b8\'c4\'c1\'cb\'cb\'fc\'b5\'c4\'c0\'e0\'a1\'a3}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;行为模式&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d0\'d0\'ce\'aa\'c4\'a3\'ca\'bd}</string>
+								</dict>
+							</dict>
 						</array>
 						<key>title</key>
 						<dict>
@@ -1050,7 +1133,7 @@
 						<key>location</key>
 						<string>{-163.796875, 134.15234375}</string>
 						<key>nodeID</key>
-						<string>09A753B5-138A-4709-8F4A-E75E41F7A0EA</string>
+						<string>AB11E4F4-133D-4DF6-8818-DD483F85DD30</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.742, 0.041, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1073,7 +1156,7 @@
 								<key>location</key>
 								<string>{-326.796875, 30.65234375}</string>
 								<key>nodeID</key>
-								<string>0E022541-D9A3-4DD4-B466-9C7F9D083F5A</string>
+								<string>B8CF3AA0-D016-4C66-B401-256F43296069</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1096,7 +1179,7 @@
 										<key>location</key>
 										<string>{-687.796875, 18.15234375}</string>
 										<key>nodeID</key>
-										<string>DE1347CD-D1A2-499B-916E-9A6D03BABAF7</string>
+										<string>0C05C0D9-FC8A-4ACE-8AF3-AD46E7F9410D</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1156,7 +1239,7 @@
 								<key>location</key>
 								<string>{-308.796875, 109.15234375}</string>
 								<key>nodeID</key>
-								<string>AAD21044-FF95-4528-9183-BEA39566BDF7</string>
+								<string>58E8A485-5B0C-4605-9875-18A1D582B278</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1179,7 +1262,7 @@
 										<key>location</key>
 										<string>{-669.796875, 84.15234375}</string>
 										<key>nodeID</key>
-										<string>51F4B667-D512-4F6B-A376-713F531548C7</string>
+										<string>BCD2DA11-C1B6-456B-8663-BB9B91A50964</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1239,7 +1322,7 @@
 								<key>location</key>
 								<string>{-308.796875, 212.65234375}</string>
 								<key>nodeID</key>
-								<string>AAFC3A97-0ADB-4FFF-B0BB-13EEAF92EA2B</string>
+								<string>D90A0E8C-C247-498C-B8AA-505F113F45A5</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1262,7 +1345,7 @@
 										<key>location</key>
 										<string>{-669.796875, 175.15234375}</string>
 										<key>nodeID</key>
-										<string>799584CC-1246-4409-ABE1-AF0CCF3E6F83</string>
+										<string>6D5E8D35-03E4-4CA6-B168-5D061A7480E6</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.742, 0.041, 1.000}</string>
 										<key>strokeStyle</key>
