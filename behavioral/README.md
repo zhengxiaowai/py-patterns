@@ -785,13 +785,13 @@ if __name__ == '__main__':
     p2 = Process('p2')
     p2.handup()
     p2.execute()
-    p2.killed
+    p2.killed()
 
     print('\nProcess NO.3')
     p3 = Process('p3')
     p3.handup()
     p3.handup()
-    p3.killed
+    p3.killed()
 
     print('\nProcess NO.4')
     p4 = Process('p4')
