@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "-search",
+        "-lunr",
+        "github",
+        "comment",
+        "fontsettings",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/zhengxiaowai/py-patterns"
+        },
+        "edit-link": {
+            "base": "https://github.com/zhengxiaowai/py-patterns/edit/master/",
+            "label": ""
+        }
+    }
+}
