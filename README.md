@@ -1,8 +1,4 @@
-# design-patterns
-
-- [创建型模式](creational/README)
-- [行为型模式](behavioral/README)
-- [结构型模式](structural/README)
+# Python 设计模式
 
 ![desgin-patterns](./desgin-patterns-cheet.png)
 
